@@ -8,4 +8,5 @@ This generates from the branch `8.0.x-1.12.2` targeting Minecraft 1.12.
 
 ## Output
 
-You can find a checked in version of the output [here](recipes.md).
+You can find a checked in version of the output [here](recipes.md),
+and overview of all the guidebook screenshots are [here](guidebook.md).
