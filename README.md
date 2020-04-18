@@ -6,7 +6,13 @@ I found that some of the BC recipes where out of date on the various wikis and o
 
 This generates from the branch `8.0.x-1.12.2` targeting Minecraft 1.12.
 
+## Bonus screenshots
+
+I have also a bunch of screenshots from older releases back when the guidebook contained more recipes. For a overview of them [click there](guidebook.md)!
+
 ## Output
 
-You can find a checked in version of the output [here](recipes.md),
-and overview of all the guidebook screenshots are [here](guidebook.md).
+`make` till produce `recipes.md` and `guidebook.md`.  You can find a checked in version of the files here:
+
+* [recipes.md](recipes.md)
+* [guidebook.md](guidebook.md)
