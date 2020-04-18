@@ -20,7 +20,7 @@ def out(f, jr, recipe):
         for pattern_row in pattern:
             for index, mat in enumerate(list(reversed(list(pattern_row)))):
                 if mat == " ":
-                    f.write(f" - | ")
+                    f.write(f" _ | ")
                 else:
                     ore = jr["key"][mat].get("ore")
                     mat_lookup = jr["key"][mat].get("item", ore)

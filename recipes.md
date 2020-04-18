@@ -15,9 +15,9 @@ data: 0| |amount: 1
 Source: [buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_spawn.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_spawn.json)
 data: 0| |amount: 1
 -|-|-
- - |  minecraft:sand |  - | 
+ _ |  minecraft:sand |  _ | 
  minecraft:sand |  forge:bucketfilled |  minecraft:sand
- - |  minecraft:sand |  - | 
+ _ |  minecraft:sand |  _ | 
 ## buildcraftfactory:pump
 Source: [buildcraft_resources/assets/buildcraftfactory/recipes/pump.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/pump.json)
 data: 0| |amount: 1
@@ -49,7 +49,7 @@ Source: [buildcraft_resources/assets/buildcraftfactory/recipes/tank.json](https:
 data: 0| |amount: 1
 -|-|-
  #blockGlassColorless |  #blockGlassColorless |  #blockGlassColorless
- #blockGlassColorless |  - |  #blockGlassColorless
+ #blockGlassColorless |  _ |  #blockGlassColorless
  #blockGlassColorless |  #blockGlassColorless |  #blockGlassColorless
 ## minecraft:water_bucket
 Source: [buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_to_bucket.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_to_bucket.json)
@@ -63,7 +63,7 @@ data: 0| |amount: 1
 -|-|-
  #ingotIron |  minecraft:chest |  #ingotIron
  #ingotIron |  #gearStone |  #ingotIron
- - |  #ingotIron |  - | 
+ _ |  #ingotIron |  _ | 
 ## buildcraftsilicon:laser
 Source: [buildcraft_resources/assets/buildcraftsilicon/recipes/laser.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftsilicon/recipes/laser.json)
 data: 0| |amount: 1
@@ -175,14 +175,14 @@ Source: [buildcraft_resources/assets/buildcraftenergy/recipes/stirling_engine.js
 data: 1| |amount: 1
 -|-|-
  cobblestone |  cobblestone |  cobblestone
- - |  blockGlassColorless |  - | 
+ _ |  blockGlassColorless |  _ | 
  gearStone |  minecraft:piston |  gearStone
 ## buildcraftcore:engine
 Source: [buildcraft_resources/assets/buildcraftenergy/recipes/combustion_engine.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftenergy/recipes/combustion_engine.json)
 data: 2| |amount: 1
 -|-|-
  minecraft:iron_ingot |  minecraft:iron_ingot |  minecraft:iron_ingot
- - |  blockGlassColorless |  - | 
+ _ |  blockGlassColorless |  _ | 
  gearIron |  minecraft:piston |  gearIron
 ## buildcrafttransport:waterproof
 ```
@@ -201,9 +201,9 @@ data: 2| |amount: 1
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_wood.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_wood.json)
 data: 0| |amount: 1
 -|-|-
- - |  stickWood |  - | 
- stickWood |  - |  stickWood
- - |  stickWood |  - | 
+ _ |  stickWood |  _ | 
+ stickWood |  _ |  stickWood
+ _ |  stickWood |  _ | 
 ## buildcraftcore:marker_connector
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/marker_connector.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/marker_connector.json)
 data: 0| |amount: 1
@@ -215,30 +215,30 @@ data: 0| |amount: 1
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/wrench.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/wrench.json)
 data: 0| |amount: 1
 -|-|-
- ingotIron |  - |  ingotIron
- - |  gearStone |  - | 
- - |  ingotIron |  - | 
+ ingotIron |  _ |  ingotIron
+ _ |  gearStone |  _ | 
+ _ |  ingotIron |  _ | 
 ## buildcraftcore:gear_iron
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_iron.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_iron.json)
 data: 0| |amount: 1
 -|-|-
- - |  minecraft:iron_ingot |  - | 
+ _ |  minecraft:iron_ingot |  _ | 
  minecraft:iron_ingot |  gearStone |  minecraft:iron_ingot
- - |  minecraft:iron_ingot |  - | 
+ _ |  minecraft:iron_ingot |  _ | 
 ## buildcraftcore:gear_diamond
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_diamond.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_diamond.json)
 data: 0| |amount: 1
 -|-|-
- - |  minecraft:diamond |  - | 
+ _ |  minecraft:diamond |  _ | 
  minecraft:diamond |  gearGold |  minecraft:diamond
- - |  minecraft:diamond |  - | 
+ _ |  minecraft:diamond |  _ | 
 ## buildcraftcore:gear_stone
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_stone.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_stone.json)
 data: 0| |amount: 1
 -|-|-
- - |  cobblestone |  - | 
+ _ |  cobblestone |  _ | 
  cobblestone |  gearWood |  cobblestone
- - |  cobblestone |  - | 
+ _ |  cobblestone |  _ | 
 ## buildcraftcore:list
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/list.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/list.json)
 data: 0| |amount: 1
@@ -261,9 +261,9 @@ data: 0| |amount: 1
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_gold.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_gold.json)
 data: 0| |amount: 1
 -|-|-
- - |  minecraft:gold_ingot |  - | 
+ _ |  minecraft:gold_ingot |  _ | 
  minecraft:gold_ingot |  gearIron |  minecraft:gold_ingot
- - |  minecraft:gold_ingot |  - | 
+ _ |  minecraft:gold_ingot |  _ | 
 ## buildcraftcore:marker_path
 Source: [buildcraft_resources/assets/buildcraftcore/recipes/marker_path.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/marker_path.json)
 data: 0| |amount: 1
@@ -275,5 +275,5 @@ Source: [buildcraft_resources/assets/buildcraftcore/recipes/redstone_engine.json
 data: 0| |amount: 1
 -|-|-
  plankWood |  plankWood |  plankWood
- - |  blockGlassColorless |  - | 
+ _ |  blockGlassColorless |  _ | 
  gearWood |  minecraft:piston |  gearWood
