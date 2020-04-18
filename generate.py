@@ -18,7 +18,7 @@ def out(f, jr, recipe):
             f"* Source: [{recipe}](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/{recipe})\n"
         )
         f.write(
-            f"* Buildcraft Wiki: [{search}](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query={search})\n"
+            f"* Buildcraft Wiki: [{search}](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query={search}) | [{name}](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query={name})\n"
         )
 
         f.write(f"\ndata: {data}| |amount: {amount}\n-|-|-\n")
