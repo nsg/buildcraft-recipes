@@ -7,8 +7,9 @@ def out(f, jr, recipe):
     result = jr["result"]["item"]
     data = jr["result"].get("data", 0)
     amount = jr["result"].get("amount", 1)
+    name = recipe.split("/")[-1:][0].split(".")[0]
 
-    f.write(f"## {result}\n")
+    f.write(f"## {result} ({name})\n")
 
     if "pattern" in jr:
         pattern = jr["pattern"]
