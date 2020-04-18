@@ -1,6 +1,6 @@
 ## buildcraftfactory:mining_well
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/mining_well.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/mining_well.json)
-* Buildcraft Wiki: [buildcraftfactory:mining_well](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=mining_well)
+* Buildcraft Wiki: [mining_well](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=mining_well)
 
 data: 0| |amount: 1
 -|-|-
@@ -9,7 +9,7 @@ data: 0| |amount: 1
  #ingotIron |  minecraft:iron_pickaxe |  #ingotIron
 ## buildcraftfactory:distiller
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/distiller.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/distiller.json)
-* Buildcraft Wiki: [buildcraftfactory:distiller](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=distiller)
+* Buildcraft Wiki: [distiller](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=distiller)
 
 data: 0| |amount: 1
 -|-|-
@@ -17,7 +17,7 @@ data: 0| |amount: 1
  buildcraftfactory:tank |  #gearDiamond |  buildcraftfactory:tank
 ## buildcraftfactory:water_gel_spawn
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_spawn.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_spawn.json)
-* Buildcraft Wiki: [buildcraftfactory:water_gel_spawn](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=water_gel_spawn)
+* Buildcraft Wiki: [water_gel_spawn](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=water_gel_spawn)
 
 data: 0| |amount: 1
 -|-|-
@@ -26,7 +26,7 @@ data: 0| |amount: 1
  _ |  minecraft:sand |  _ | 
 ## buildcraftfactory:pump
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/pump.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/pump.json)
-* Buildcraft Wiki: [buildcraftfactory:pump](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=pump)
+* Buildcraft Wiki: [pump](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=pump)
 
 data: 0| |amount: 1
 -|-|-
@@ -35,14 +35,14 @@ data: 0| |amount: 1
  buildcraftfactory:tank |  minecraft:bucket |  buildcraftfactory:tank
 ## buildcraftfactory:autoworkbench_item
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/autoworkbench_item.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/autoworkbench_item.json)
-* Buildcraft Wiki: [buildcraftfactory:autoworkbench_item](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=autoworkbench_item)
+* Buildcraft Wiki: [autoworkbench_item](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=autoworkbench_item)
 
 data: 0| |amount: 1
 -|-|-
  #gearStone |  craftingTableWood |  #gearStone
 ## buildcraftfactory:flood_gate
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/flood_gate.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/flood_gate.json)
-* Buildcraft Wiki: [buildcraftfactory:flood_gate](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=flood_gate)
+* Buildcraft Wiki: [flood_gate](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=flood_gate)
 
 data: 0| |amount: 1
 -|-|-
@@ -51,7 +51,7 @@ data: 0| |amount: 1
  #ingotIron |  minecraft:iron_bars |  #ingotIron
 ## buildcraftfactory:heat_exchange
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/heat_exchange.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/heat_exchange.json)
-* Buildcraft Wiki: [buildcraftfactory:heat_exchange](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=heat_exchange)
+* Buildcraft Wiki: [heat_exchange](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=heat_exchange)
 
 data: 0| |amount: 1
 -|-|-
@@ -60,7 +60,7 @@ data: 0| |amount: 1
  #ingotIron |  #gearIron |  #ingotIron
 ## buildcraftfactory:tank
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/tank.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/tank.json)
-* Buildcraft Wiki: [buildcraftfactory:tank](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=tank)
+* Buildcraft Wiki: [tank](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=tank)
 
 data: 0| |amount: 1
 -|-|-
@@ -69,7 +69,7 @@ data: 0| |amount: 1
  #blockGlassColorless |  #blockGlassColorless |  #blockGlassColorless
 ## minecraft:water_bucket
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_to_bucket.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/water_gel_to_bucket.json)
-* Buildcraft Wiki: [minecraft:water_bucket](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=water_bucket)
+* Buildcraft Wiki: [water_bucket](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=water_bucket)
 
 data: 0| |amount: 1
 -|-|-
@@ -77,7 +77,7 @@ data: 0| |amount: 1
  minecraft:bucket | 
 ## buildcraftfactory:chute
 * Source: [buildcraft_resources/assets/buildcraftfactory/recipes/chute.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftfactory/recipes/chute.json)
-* Buildcraft Wiki: [buildcraftfactory:chute](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=chute)
+* Buildcraft Wiki: [chute](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=chute)
 
 data: 0| |amount: 1
 -|-|-
@@ -86,7 +86,7 @@ data: 0| |amount: 1
  _ |  #ingotIron |  _ | 
 ## buildcraftsilicon:laser
 * Source: [buildcraft_resources/assets/buildcraftsilicon/recipes/laser.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftsilicon/recipes/laser.json)
-* Buildcraft Wiki: [buildcraftsilicon:laser](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=laser)
+* Buildcraft Wiki: [laser](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=laser)
 
 data: 0| |amount: 1
 -|-|-
@@ -95,7 +95,7 @@ data: 0| |amount: 1
  minecraft:obsidian |  #dustRedstone |  #dustRedstone
 ## buildcraftsilicon:assembly_table
 * Source: [buildcraft_resources/assets/buildcraftsilicon/recipes/assembly_table.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftsilicon/recipes/assembly_table.json)
-* Buildcraft Wiki: [buildcraftsilicon:assembly_table](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=assembly_table)
+* Buildcraft Wiki: [assembly_table](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=assembly_table)
 
 data: 0| |amount: 1
 -|-|-
@@ -104,7 +104,7 @@ data: 0| |amount: 1
  minecraft:obsidian |  #gearDiamond |  minecraft:obsidian
 ## buildcraftsilicon:integration_table
 * Source: [buildcraft_resources/assets/buildcraftsilicon/recipes/integration_table.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftsilicon/recipes/integration_table.json)
-* Buildcraft Wiki: [buildcraftsilicon:integration_table](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=integration_table)
+* Buildcraft Wiki: [integration_table](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=integration_table)
 
 data: 0| |amount: 1
 -|-|-
@@ -113,7 +113,7 @@ data: 0| |amount: 1
  minecraft:obsidian |  #gearDiamond |  minecraft:obsidian
 ## buildcraftsilicon:advanced_crafting_table
 * Source: [buildcraft_resources/assets/buildcraftsilicon/recipes/advanced_crafting_table.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftsilicon/recipes/advanced_crafting_table.json)
-* Buildcraft Wiki: [buildcraftsilicon:advanced_crafting_table](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=advanced_crafting_table)
+* Buildcraft Wiki: [advanced_crafting_table](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=advanced_crafting_table)
 
 data: 0| |amount: 1
 -|-|-
@@ -140,7 +140,7 @@ data: 0| |amount: 1
 ```
 ## buildcraftbuilders:architect
 * Source: [buildcraft_resources/assets/buildcraftbuilders/recipes/architect_table.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftbuilders/recipes/architect_table.json)
-* Buildcraft Wiki: [buildcraftbuilders:architect](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=architect)
+* Buildcraft Wiki: [architect](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=architect)
 
 data: 0| |amount: 1
 -|-|-
@@ -149,7 +149,7 @@ data: 0| |amount: 1
  gearDiamond |  buildcraftbuilders:snapshot |  gearDiamond
 ## buildcraftbuilders:snapshot
 * Source: [buildcraft_resources/assets/buildcraftbuilders/recipes/template.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftbuilders/recipes/template.json)
-* Buildcraft Wiki: [buildcraftbuilders:snapshot](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=snapshot)
+* Buildcraft Wiki: [snapshot](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=snapshot)
 
 data: 0| |amount: 1
 -|-|-
@@ -158,7 +158,7 @@ data: 0| |amount: 1
  minecraft:paper |  minecraft:paper |  minecraft:paper
 ## buildcraftbuilders:quarry
 * Source: [buildcraft_resources/assets/buildcraftbuilders/recipes/quarry.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftbuilders/recipes/quarry.json)
-* Buildcraft Wiki: [buildcraftbuilders:quarry](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=quarry)
+* Buildcraft Wiki: [quarry](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=quarry)
 
 data: 0| |amount: 1
 -|-|-
@@ -167,7 +167,7 @@ data: 0| |amount: 1
  gearDiamond |  minecraft:diamond_pickaxe |  gearDiamond
 ## buildcraftbuilders:snapshot
 * Source: [buildcraft_resources/assets/buildcraftbuilders/recipes/blueprint.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftbuilders/recipes/blueprint.json)
-* Buildcraft Wiki: [buildcraftbuilders:snapshot](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=snapshot)
+* Buildcraft Wiki: [snapshot](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=snapshot)
 
 data: 2| |amount: 1
 -|-|-
@@ -176,7 +176,7 @@ data: 2| |amount: 1
  minecraft:paper |  minecraft:paper |  minecraft:paper
 ## buildcrafttransport:plug_power_adaptor
 * Source: [buildcraft_resources/assets/buildcrafttransport/recipes/plug_power_adaptor.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcrafttransport/recipes/plug_power_adaptor.json)
-* Buildcraft Wiki: [buildcrafttransport:plug_power_adaptor](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=plug_power_adaptor)
+* Buildcraft Wiki: [plug_power_adaptor](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=plug_power_adaptor)
 
 data: 0| |amount: 1
 -|-|-
@@ -185,7 +185,7 @@ data: 0| |amount: 1
  buildcrafttransport:pipe_structure |  minecraft:redstone |  buildcrafttransport:pipe_structure
 ## buildcrafttransport:plug_blocker
 * Source: [buildcraft_resources/assets/buildcrafttransport/recipes/plug_blocker.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcrafttransport/recipes/plug_blocker.json)
-* Buildcraft Wiki: [buildcrafttransport:plug_blocker](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=plug_blocker)
+* Buildcraft Wiki: [plug_blocker](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=plug_blocker)
 
 data: 0| |amount: 1
 -|-|-
@@ -200,14 +200,14 @@ data: 0| |amount: 1
 ```
 ## buildcrafttransport:pipe_structure
 * Source: [buildcraft_resources/assets/buildcrafttransport/recipes/pipe_structure.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcrafttransport/recipes/pipe_structure.json)
-* Buildcraft Wiki: [buildcrafttransport:pipe_structure](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=pipe_structure)
+* Buildcraft Wiki: [pipe_structure](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=pipe_structure)
 
 data: 0| |amount: 1
 -|-|-
  #cobblestone |  minecraft:gravel |  #cobblestone
 ## buildcrafttransport:filtered_buffer
 * Source: [buildcraft_resources/assets/buildcrafttransport/recipes/filtered_buffer.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcrafttransport/recipes/filtered_buffer.json)
-* Buildcraft Wiki: [buildcrafttransport:filtered_buffer](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=filtered_buffer)
+* Buildcraft Wiki: [filtered_buffer](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=filtered_buffer)
 
 data: 0| |amount: 1
 -|-|-
@@ -216,7 +216,7 @@ data: 0| |amount: 1
  #plankWood |  minecraft:piston |  #plankWood
 ## buildcraftcore:engine
 * Source: [buildcraft_resources/assets/buildcraftenergy/recipes/stirling_engine.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftenergy/recipes/stirling_engine.json)
-* Buildcraft Wiki: [buildcraftcore:engine](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=engine)
+* Buildcraft Wiki: [engine](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=engine)
 
 data: 1| |amount: 1
 -|-|-
@@ -225,7 +225,7 @@ data: 1| |amount: 1
  gearStone |  minecraft:piston |  gearStone
 ## buildcraftcore:engine
 * Source: [buildcraft_resources/assets/buildcraftenergy/recipes/combustion_engine.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftenergy/recipes/combustion_engine.json)
-* Buildcraft Wiki: [buildcraftcore:engine](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=engine)
+* Buildcraft Wiki: [engine](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=engine)
 
 data: 2| |amount: 1
 -|-|-
@@ -247,7 +247,7 @@ data: 2| |amount: 1
 ```
 ## buildcraftcore:gear_wood
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_wood.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_wood.json)
-* Buildcraft Wiki: [buildcraftcore:gear_wood](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_wood)
+* Buildcraft Wiki: [gear_wood](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_wood)
 
 data: 0| |amount: 1
 -|-|-
@@ -256,7 +256,7 @@ data: 0| |amount: 1
  _ |  stickWood |  _ | 
 ## buildcraftcore:marker_connector
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/marker_connector.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/marker_connector.json)
-* Buildcraft Wiki: [buildcraftcore:marker_connector](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=marker_connector)
+* Buildcraft Wiki: [marker_connector](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=marker_connector)
 
 data: 0| |amount: 1
 -|-|-
@@ -265,7 +265,7 @@ data: 0| |amount: 1
  buildcraftcore:wrench | 
 ## buildcraftcore:wrench
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/wrench.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/wrench.json)
-* Buildcraft Wiki: [buildcraftcore:wrench](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=wrench)
+* Buildcraft Wiki: [wrench](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=wrench)
 
 data: 0| |amount: 1
 -|-|-
@@ -274,7 +274,7 @@ data: 0| |amount: 1
  _ |  ingotIron |  _ | 
 ## buildcraftcore:gear_iron
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_iron.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_iron.json)
-* Buildcraft Wiki: [buildcraftcore:gear_iron](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_iron)
+* Buildcraft Wiki: [gear_iron](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_iron)
 
 data: 0| |amount: 1
 -|-|-
@@ -283,7 +283,7 @@ data: 0| |amount: 1
  _ |  minecraft:iron_ingot |  _ | 
 ## buildcraftcore:gear_diamond
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_diamond.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_diamond.json)
-* Buildcraft Wiki: [buildcraftcore:gear_diamond](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_diamond)
+* Buildcraft Wiki: [gear_diamond](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_diamond)
 
 data: 0| |amount: 1
 -|-|-
@@ -292,7 +292,7 @@ data: 0| |amount: 1
  _ |  minecraft:diamond |  _ | 
 ## buildcraftcore:gear_stone
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_stone.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_stone.json)
-* Buildcraft Wiki: [buildcraftcore:gear_stone](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_stone)
+* Buildcraft Wiki: [gear_stone](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_stone)
 
 data: 0| |amount: 1
 -|-|-
@@ -301,7 +301,7 @@ data: 0| |amount: 1
  _ |  cobblestone |  _ | 
 ## buildcraftcore:list
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/list.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/list.json)
-* Buildcraft Wiki: [buildcraftcore:list](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=list)
+* Buildcraft Wiki: [list](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=list)
 
 data: 0| |amount: 1
 -|-|-
@@ -310,14 +310,14 @@ data: 0| |amount: 1
  minecraft:paper |  minecraft:paper |  minecraft:paper
 ## buildcraftcore:diamond_shard
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/diamond_shard.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/diamond_shard.json)
-* Buildcraft Wiki: [buildcraftcore:diamond_shard](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=diamond_shard)
+* Buildcraft Wiki: [diamond_shard](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=diamond_shard)
 
 data: 0| |amount: 1
 -|-|-
  minecraft:diamond | 
 ## buildcraftcore:marker_volume
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/marker_volume.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/marker_volume.json)
-* Buildcraft Wiki: [buildcraftcore:marker_volume](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=marker_volume)
+* Buildcraft Wiki: [marker_volume](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=marker_volume)
 
 data: 0| |amount: 1
 -|-|-
@@ -325,7 +325,7 @@ data: 0| |amount: 1
  minecraft:redstone_torch | 
 ## buildcraftcore:gear_gold
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/gear_gold.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/gear_gold.json)
-* Buildcraft Wiki: [buildcraftcore:gear_gold](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_gold)
+* Buildcraft Wiki: [gear_gold](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=gear_gold)
 
 data: 0| |amount: 1
 -|-|-
@@ -334,7 +334,7 @@ data: 0| |amount: 1
  _ |  minecraft:gold_ingot |  _ | 
 ## buildcraftcore:marker_path
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/marker_path.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/marker_path.json)
-* Buildcraft Wiki: [buildcraftcore:marker_path](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=marker_path)
+* Buildcraft Wiki: [marker_path](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=marker_path)
 
 data: 0| |amount: 1
 -|-|-
@@ -342,7 +342,7 @@ data: 0| |amount: 1
  minecraft:redstone_torch | 
 ## buildcraftcore:engine
 * Source: [buildcraft_resources/assets/buildcraftcore/recipes/redstone_engine.json](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/buildcraft_resources/assets/buildcraftcore/recipes/redstone_engine.json)
-* Buildcraft Wiki: [buildcraftcore:engine](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=engine)
+* Buildcraft Wiki: [engine](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query=engine)
 
 data: 0| |amount: 1
 -|-|-
