@@ -13,10 +13,13 @@ def out(f, jr, recipe):
     if "pattern" in jr:
         pattern = jr["pattern"]
         f.write(
-            f"Source: [{recipe}](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/{recipe})\n"
+            f"* Source: [{recipe}](https://github.com/BuildCraft/BuildCraft/blob/8.0.x-1.12.2/{recipe})\n"
+        )
+        f.write(
+            f"* Buildcraft Wiki: [{result}](https://minecraftbuildcraft.fandom.com/wiki/Special:Search?query={result.split(':')[1:][0]})\n"
         )
 
-        f.write(f"data: {data}| |amount: {amount}\n-|-|-\n")
+        f.write(f"\ndata: {data}| |amount: {amount}\n-|-|-\n")
         for pattern_row in pattern:
             for index, mat in enumerate(list(reversed(list(pattern_row)))):
                 if mat == " ":
